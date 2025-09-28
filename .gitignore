@@ -1,0 +1,13 @@
+# Ignore dataset files
+metadata.csv
+metadata_cleaned.csv
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Ignore system and editor files
+.DS_Store
+.vscode/
